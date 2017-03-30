@@ -5,11 +5,11 @@ package Observers;
  */
 public  abstract class Subject {
 
-	public void add(Observers.Observers obs){
+	public void add(Observers obs){
 
 	}
 
-	public void delete(Observers.Observers obs){
+	public void delete(Observers obs){
 
 	}
 
